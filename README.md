@@ -6,9 +6,9 @@
 * [Arduino](https://www.arduino.cc/) - Open-source electronic prototyping platform enabling users to create interactive electronic objects.
 * [Octoprint](https://octoprint.org/) - OctoPrint is an open source 3D print controller application.
 * [Telegram](https://telegram.org/) - Telegram is a cloud-based instant messaging and voice over IP service.
-* [Fusion 360](https://www.autodesk.com/products/fusion-360/overview#banner) - cloud-based CAD/CAM tool
-* [Raspberry Pi 3b+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/) - small single-board computers
-* [Cura](https://ultimaker.com/software/ultimaker-cura) - open source 3D printer slicing application
+* [Fusion 360](https://www.autodesk.com/products/fusion-360/overview#banner) - Cloud-based CAD/CAM tool.
+* [Raspberry Pi 3b+](https://www.raspberrypi.org/products/raspberry-pi-3-model-b-plus/) - Small single-board computer.
+* [Cura](https://ultimaker.com/software/ultimaker-cura) - Open source 3D printer slicing application.
 
 ### Photos
 <p align="center">
